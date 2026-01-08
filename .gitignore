@@ -355,3 +355,6 @@ MigrationBackup/
 # JetBrains Rider
 .idea
 
+# I don't know
+Assets/FontFile/
+Assets/FontFile/*
